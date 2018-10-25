@@ -10,5 +10,7 @@ namespace Students.Web.ViewModel
         public string LastName { get; set; }
 
         public int BirthYear { get; set; }
+
+        public decimal? AverageMark { get; set; }
     }
 }
